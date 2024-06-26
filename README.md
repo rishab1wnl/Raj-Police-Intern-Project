@@ -32,7 +32,34 @@ The **Rajasthan Police Internship Project** is a web application developed to as
   - [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP) for communication protocol.
 
 ## Project Structure
-
+```
 Here's a detailed breakdown of the project structure:
+Rajasthan-Police-Intern-Project/
+│
+├── README.md               # Project documentation
+├── package.json            # Project dependencies and scripts
+├── angular.json            # Angular CLI configuration
+├── tsconfig.json           # TypeScript configuration
+│
+├── src/
+│   ├── app/
+│   │   ├── components/     # Reusable components (header, footer, forms, etc.)
+│   │   ├── services/       # Business logic and data handling services
+│   │   ├── models/         # TypeScript interfaces and models
+│   │   ├── modules/        # Custom Angular modules
+│   │   ├── ...             # Additional application files
+│   │
+│   ├── assets/             # Static assets (images, icons, fonts)
+│   ├── environments/       # Environment configurations (dev, prod)
+│   ├── index.html          # Main HTML file
+│   ├── main.ts             # Main entry point for Angular
+│   ├── styles.css          # Global styles
+│   ├── ...                 # Additional source files
+│
+├── .gitignore              # Files and directories to ignore in Git
+├── karma.conf.js           # Karma test runner configuration
+├── protractor.conf.js      # Protractor end-to-end test configuration
+└── ...
 
+```
 
