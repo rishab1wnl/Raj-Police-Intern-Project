@@ -10,7 +10,7 @@
 [![Localhost Badge](https://img.shields.io/badge/Localhost-running-green?logo=localhost)](http://localhost)
 [![ngx-toastr Badge](https://img.shields.io/badge/ngx--toastr-latest-orange?logo=angular)](https://www.npmjs.com/package/ngx-toastr)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-[![Lordicon Badge](https://img.shields.io/badge/Lordicon-latest-purple?logo=lordicon)](https://lordicon.com/)
+[![Lordicon Badge](https://img.shields.io/badge/Lordicon-latest-purple?style=for-the-badge&logo=lordicon)](https://lordicon.com/)
 [![favicon Badge](https://img.shields.io/badge/favicon-latest-blue?logo=favicon)](https://favicon.io/)
 [![HTTP Badge](https://img.shields.io/badge/HTTP-latest-green?logo=http)](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 
