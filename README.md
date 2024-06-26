@@ -63,3 +63,77 @@ Rajasthan-Police-Intern-Project/
 
 ```
 
+
+## Getting Started
+
+### Prerequisites
+
+Ensure you have the following installed on your system:
+
+- [Node.js](https://nodejs.org/)
+- [Angular CLI](https://angular.io/cli)
+- [Git](https://git-scm.com/)
+
+### Installation
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/rishab1wnl/Raj-Police-Intern-Project.git
+    ```
+2. **Navigate to the project directory:**
+    ```bash
+    cd Raj-Police-Intern-Project
+    ```
+3. **Install the dependencies:**
+    ```bash
+    npm install
+    ```
+
+### Running the Application
+
+1. **Start the Angular development server:**
+    ```bash
+    ng serve
+    ```
+    The application will be accessible at [http://localhost:4200/](http://localhost:4200/).
+
+2. **Start the JSON server for API:**
+    ```bash
+    npm run json-server
+    ```
+    The API will be accessible at [http://localhost:3000/](http://localhost:3000/).
+
+### Useful Commands
+
+- **Build the project:**
+    ```bash
+    ng build
+    ```
+- **Run unit tests:**
+    ```bash
+    ng test
+    ```
+- **Run end-to-end tests:**
+    ```bash
+    ng e2e
+    ```
+
+## API Endpoints
+
+- **User Login:** `http://localhost:3000/login`
+- **User Signup:** `http://localhost:3000/sign-up`
+- **Expense Data:** `http://localhost:3000/expensedata`
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contributing
+
+Contributions are welcome! Please see the [contribution guidelines](CONTRIBUTING.md) for more information.
+
+## Contact
+
+For any questions or inquiries, please contact the project maintainers.
+
+**Let’s make this project better together!**
