@@ -7,12 +7,12 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-[![Localhost Badge](https://img.shields.io/badge/Localhost-running-green?logo=localhost)](http://localhost)
-[![ngx-toastr Badge](https://img.shields.io/badge/ngx--toastr-latest-orange?logo=angular)](https://www.npmjs.com/package/ngx-toastr)
+[![Localhost Badge](https://img.shields.io/badge/Localhost-running-green?style=for-the-badge&logo=localhost)](http://localhost)
+[![ngx-toastr Badge](https://img.shields.io/badge/ngx--toastr-latest-orange?style=for-the-badge&logo=angular)](https://www.npmjs.com/package/ngx-toastr)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 [![Lordicon Badge](https://img.shields.io/badge/Lordicon-latest-purple?style=for-the-badge&logo=lordicon)](https://lordicon.com/)
-[![favicon Badge](https://img.shields.io/badge/favicon-latest-blue?logo=favicon)](https://favicon.io/)
-[![HTTP Badge](https://img.shields.io/badge/HTTP-latest-green?logo=http)](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+[![favicon Badge](https://img.shields.io/badge/favicon-latest-blue?style=for-the-badge&logo=favicon)](https://favicon.io/)
+[![HTTP Badge](https://img.shields.io/badge/HTTP-latest-green?style=for-the-badge&logo=http)](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 
 
 ## Project Overview
@@ -132,16 +132,5 @@ Ensure you have the following installed on your system:
 - **User Signup:** `http://localhost:3000/sign-up`
 - **Expense Data:** `http://localhost:3000/expensedata`
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contributing
-
-Contributions are welcome! Please see the [contribution guidelines](CONTRIBUTING.md) for more information.
-
-## Contact
-
-For any questions or inquiries, please contact the project maintainers.
-
-**Let’s make this project better together!**
+Happy Coding :)
