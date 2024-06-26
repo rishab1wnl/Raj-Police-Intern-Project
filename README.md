@@ -1,11 +1,20 @@
-# Rajasthan Police Internship Project
+# Rajasthan Police Internship Project ![Rajasthan Police Logo](https://upload.wikimedia.org/wikipedia/en/c/c4/Rajasthan_Police_Logo.png)
 
-[![Angular Badge](https://img.shields.io/badge/Angular-14.2.8-red?logo=angular)](https://angular.io/)
-[![HTML5 Badge](https://img.shields.io/badge/HTML5-latest-orange?logo=html5)](https://www.w3.org/html/)
-[![CSS Badge](https://img.shields.io/badge/CSS-latest-blue?logo=css3)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![TypeScript Badge](https://img.shields.io/badge/TypeScript-latest-blue?logo=typescript)](https://www.typescriptlang.org/)
-[![Node.js Badge](https://img.shields.io/badge/Node.js-latest-green?logo=node.js)](https://nodejs.org/)
-[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-5.0-purple?logo=bootstrap)](https://getbootstrap.com/docs/5.0/)
+
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+[![Localhost Badge](https://img.shields.io/badge/Localhost-running-green?logo=localhost)](http://localhost)
+[![ngx-toastr Badge](https://img.shields.io/badge/ngx--toastr-latest-orange?logo=angular)](https://www.npmjs.com/package/ngx-toastr)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![Rajasthan Police Badge](https://upload.wikimedia.org/wikipedia/en/c/c4/Rajasthan_Police_Logo.png)](https://www.police.rajasthan.gov.in/)
+[![Lordicon Badge](https://img.shields.io/badge/Lordicon-latest-purple?logo=lordicon)](https://lordicon.com/)
+[![favicon Badge](https://img.shields.io/badge/favicon-latest-blue?logo=favicon)](https://favicon.io/)
+[![HTTP Badge](https://img.shields.io/badge/HTTP-latest-green?logo=http)](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+
 
 ## Project Overview
 
