@@ -133,4 +133,4 @@ Ensure you have the following installed on your system:
 - **Expense Data:** `http://localhost:3000/expensedata`
 
 
-Happy Coding :)
+> *This project was developed with ❤️ and ☕.*
