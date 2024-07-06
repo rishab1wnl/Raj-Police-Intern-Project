@@ -13,6 +13,7 @@
 [![Lordicon Badge](https://img.shields.io/badge/Lordicon-latest-purple?style=for-the-badge&logo=lordicon)](https://lordicon.com/)
 [![favicon Badge](https://img.shields.io/badge/favicon-latest-blue?style=for-the-badge&logo=favicon)](https://favicon.io/)
 [![HTTP Badge](https://img.shields.io/badge/HTTP-latest-green?style=for-the-badge&logo=http)](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ## Project Overview
