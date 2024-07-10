@@ -9,12 +9,11 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 [![Localhost Badge](https://img.shields.io/badge/Localhost-running-green?style=for-the-badge&logo=localhost)](http://localhost)
 [![ngx-toastr Badge](https://img.shields.io/badge/ngx--toastr-latest-orange?style=for-the-badge&logo=angular)](https://www.npmjs.com/package/ngx-toastr)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-[![Lordicon Badge](https://img.shields.io/badge/Lordicon-latest-purple?style=for-the-badge&logo=lordicon)](https://lordicon.com/)
-[![favicon Badge](https://img.shields.io/badge/favicon-latest-blue?style=for-the-badge&logo=favicon)](https://favicon.io/)
-[![HTTP Badge](https://img.shields.io/badge/HTTP-latest-green?style=for-the-badge&logo=http)](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ## Project Overview
 
